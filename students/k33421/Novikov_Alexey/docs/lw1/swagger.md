@@ -2,6 +2,6 @@
 
 <figure markdown>
 
-  ![Консоль клиента](/img/lw1/swagger.png)
+  ![Консоль клиента](https://kinsl.github.io/ITMO_ICT_WebDevelopment2/img/lw1/swagger.png)
 
 </figure>
