@@ -37,6 +37,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
 plugins:
   - glightbox:
       auto_caption: true
@@ -51,3 +52,8 @@ nav:
       - lw1/models.md
       - lw1/endpoints.md
       - lw1/swagger.md
+  - "№2: Потоки. Процессы. Асинхронность":
+      - lw2/index.md
+      - "Задание 1": lw2/task1.md
+      - "Задание 2": lw2/task2.md
+      - lw2/conclusion.md
