@@ -45,6 +45,8 @@ extra_css:
 - css/custom.css
 - css/palette.scss
 nav:
+  - "№0: Фоновые задачи":
+      - background_tasks/index.md
   - "№1: FastAPI":
       - lw1/index.md
       - lw1/env.md
