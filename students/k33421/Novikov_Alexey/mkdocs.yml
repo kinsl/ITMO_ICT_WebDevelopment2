@@ -57,3 +57,5 @@ nav:
       - "Задание 1": lw2/task1.md
       - "Задание 2": lw2/task2.md
       - lw2/conclusion.md
+  - "№3: Docker. Очереди":
+      - lw3/index.md
